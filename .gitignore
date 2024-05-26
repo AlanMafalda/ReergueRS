@@ -1,0 +1,2 @@
+echo "/ai1wm-backups/" >> .gitignore
+wp-content/ai1wm-backups
