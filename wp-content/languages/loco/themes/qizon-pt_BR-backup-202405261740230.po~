@@ -1,0 +1,1874 @@
+# Copyright (C) 2023 Gaviasthemes Team
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Qizon 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/qizon\n"
+"POT-Creation-Date: 2023-05-30 06:40:15+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2024-05-25 18:05+0000\n"
+"Last-Translator: \n"
+"Language-Team: Português do Brasil\n"
+"Language: pt_BR\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.9; wp-6.5.3"
+
+#: 404.php:31
+msgid "404 not found"
+msgstr "404 não encontrado"
+
+#: 404.php:35 includes/options/opts-page.php:33
+msgid "OPPS! This Page is Not Found"
+msgstr "OPPS! Esta página não foi encontrada"
+
+#: 404.php:39
+msgid ""
+"The page requested could not be found. This could be a spelling error in the "
+"URL or a removed page."
+msgstr ""
+"A página solicitada não foi encontrada. Pode ser um erro ortográfico no URL "
+"ou uma página removida."
+
+#: 404.php:45 includes/options/opts-page.php:45
+msgid "Back Homepage"
+msgstr "Voltar página inicial"
+
+#: comments.php:23
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Um pensamento sobre “%2$s”"
+msgstr[1] "%1$s pensamentos sobre “%2$s”"
+
+#: comments.php:46
+msgid "&larr; Older Comments"
+msgstr "← Comentários mais antigos"
+
+#: comments.php:47
+msgid "Newer Comments &rarr;"
+msgstr "Comentários mais recentes →"
+
+#: comments.php:52
+msgid "Comments are closed."
+msgstr "Comentários estão fechados."
+
+#: comments.php:64
+msgid "Write Your Comment"
+msgstr "Escreva seu comentário"
+
+#: comments.php:68
+msgid "Your Name *"
+msgstr "Seu nome *"
+
+#: comments.php:72
+msgid "Email *"
+msgstr "E-mail *"
+
+#: comments.php:77
+msgid "Add a Comment"
+msgstr "Adicione um comentário"
+
+#: comments.php:85
+msgid "Post Comment"
+msgstr "Postar comentário"
+
+#: comments.php:86
+msgid "Your email address will not be published."
+msgstr "Seu endereço de e-mail não será publicado."
+
+#: content.php:50 templates/blog/single.php:48
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Continue lendo %s <span class=\"meta-nav\">→</span>"
+
+#: content.php:54 templates/blog/single.php:53
+msgid "Pages:"
+msgstr "Páginas:"
+
+#: footer.php:32
+msgid "Copyright 2023 - Company - All rights reserved. Powered by WordPress."
+msgstr ""
+"Copyright 2023 – Empresa – Todos os direitos reservados. Desenvolvido por "
+"WordPress."
+
+#: functions.php:59
+msgid "Default Sidebar"
+msgstr "Barra lateral padrão"
+
+#: functions.php:61
+msgid "Appears in the Default Sidebar section of the site."
+msgstr "Aparece na seção Barra lateral padrão do site."
+
+#: functions.php:70
+msgid "WooCommerce Shop Sidebar"
+msgstr "Barra lateral da loja WooCommerce"
+
+#: functions.php:72
+msgid "Appears in the Plugin WooCommerce section of the site."
+msgstr "Aparece na seção Plugin WooCommerce do site."
+
+#: functions.php:80
+msgid "After Offcanvas Mobile"
+msgstr "Depois do Offcanvas Mobile"
+
+#: functions.php:82
+msgid "Appears in the Offcanvas section of the site."
+msgstr "Aparece na seção Offcanvas do site."
+
+#: functions.php:98
+msgctxt "Lexend Deca font: on or off"
+msgid "on"
+msgstr "sobre"
+
+#: functions.php:145
+msgid "New here?"
+msgstr "Novo aqui?"
+
+#: functions.php:146
+msgid "Create an Account"
+msgstr "Crie a sua conta aqui"
+
+#: functions.php:150
+msgid "Please login to add favorite!"
+msgstr "Faça login para adicionar favorito!"
+
+#: functions.php:151
+msgid "Add favorite successfully!"
+msgstr "Adicione favorito com sucesso!"
+
+#: functions.php:152
+msgid "Remove favorite successfully!"
+msgstr "Remover favorito com sucesso!"
+
+#: give/archive.php:41 templates/blog/archive.php:41
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Desculpe, mas nada corresponde aos seus termos de pesquisa. Por favor, tente "
+"novamente com algumas palavras-chave diferentes."
+
+#: give/content-widget.php:32 give/single-give-form/featured-image.php:31
+msgid "unlimited"
+msgstr "ilimitado"
+
+#: give/content-widget.php:51
+msgid "Donation now"
+msgstr "Doação agora"
+
+#: give/content-widget.php:77
+msgid "Goal: "
+msgstr "Meta: "
+
+#: give/content-widget.php:81 give/loop/item-style-3.php:68
+#: wpcftemplate/content-style-3.php:43
+#: wpcftemplate/woocommerce/basic/single-content-default.php:95
+#: wpcftemplate/woocommerce/basic/single-crowdfunding-content-only.php:81
+msgid "Raised: "
+msgstr "Criado: "
+
+#: give/content-widget.php:85 templates/content/item-post-standard.php:40
+#: templates/content/item-post-style-2.php:33
+#: templates/content/item-post-style-4.php:50
+msgid "Read more"
+msgstr "Consulte Mais informação"
+
+#: give/loop/item-style-1.php:18 give/loop/item-style-2.php:18
+#: give/loop/item-style-3.php:17
+msgid "100%"
+msgstr "100%"
+
+#: give/loop/item-style-1.php:20 give/loop/item-style-2.php:20
+#: give/loop/item-style-3.php:19
+msgid "Unlimited"
+msgstr "Ilimitado"
+
+#: give/loop/item-style-1.php:33 give/loop/item-style-2.php:33
+#: give/loop/item-style-3.php:32 give/single-give-form/featured-image.php:45
+msgid "View all campaign in %s"
+msgstr "Ver toda a campanha em %s"
+
+#: give/loop/item-style-1.php:71 wpcftemplate/content-style-1.php:86
+msgid "Achive:"
+msgstr "Alcançar:"
+
+#: give/loop/item-style-1.php:80 give/loop/item-style-3.php:83
+#: wpcftemplate/content-style-1.php:95 wpcftemplate/content-style-3.php:58
+#: wpcftemplate/woocommerce/basic/single-content-default.php:108
+#: wpcftemplate/woocommerce/basic/single-crowdfunding-content-only.php:94
+msgid "Goal:"
+msgstr "Meta:"
+
+#: give/loop/item-style-1.php:94 give/single-give-form/featured-image.php:89
+#: wpcftemplate/content-style-1.php:110
+msgid "Raised"
+msgstr "Criado"
+
+#: give/loop/item-style-2.php:71 wpcftemplate/content-style-2.php:52
+msgid "raised of "
+msgstr "criado de "
+
+#: give/single-give-form/featured-image.php:85
+msgid "Goal"
+msgstr "Meta"
+
+#: includes/comment.php:26
+msgid "%1$s"
+msgstr "%1$s"
+
+#: includes/comment.php:31
+msgid "Your comment is awaiting moderation."
+msgstr "Seu comentário está aguardando moderação."
+
+#: includes/comment.php:41
+msgid "Edit"
+msgstr "Editar"
+
+#: includes/comment.php:43
+msgid "Reply"
+msgstr "Responder"
+
+#: includes/functions.php:15 includes/functions.php:30
+msgid "-- Select Layout --"
+msgstr "-- Selecione Layout --"
+
+#: includes/functions.php:16
+msgid "_Default Header Layout Actived"
+msgstr "_Layout de cabeçalho padrão ativado"
+
+#: includes/functions.php:31
+msgid "_Default Footer Layout Actived"
+msgstr "_Layout de rodapé padrão ativado"
+
+#: includes/functions.php:45 includes/functions.php:59
+msgid "_Default Layout Actived"
+msgstr "_Layout padrão ativado"
+
+#: includes/functions.php:74
+msgid "Home"
+msgstr "Lar"
+
+#: includes/functions.php:112
+msgid "Search results for"
+msgstr "Resultados da busca por"
+
+#: includes/functions.php:162
+msgid "Posts tagged"
+msgstr "Publicações identificadas"
+
+#: includes/functions.php:169
+msgid "Articles posted by"
+msgstr "Artigos postados por"
+
+#: includes/functions.php:173 woocommerce/global/breadcrumb.php:157
+msgid "Error 404"
+msgstr "Erro 404"
+
+#: includes/functions.php:177 woocommerce/global/breadcrumb.php:217
+msgid "Page"
+msgstr "Página"
+
+#: includes/functions.php:189
+msgid "Comment navigation"
+msgstr "Navegação de comentários"
+
+#: includes/functions.php:192
+msgid "Older Comments"
+msgstr "Comentários mais antigos"
+
+#: includes/functions.php:196
+msgid "Newer Comments"
+msgstr "Comentários mais recentes"
+
+#: includes/give/hooks.php:51
+msgid "Donate Now"
+msgstr "DOE agora"
+
+#: includes/hook.php:8
+msgid "Search"
+msgstr "Procurar"
+
+#: includes/hook.php:10
+msgid "Latest posts"
+msgstr "Últimas postagens"
+
+#. translators: %s: title of menu item which is invalid
+#: includes/menu.php:373
+msgid "%s (Invalid)"
+msgstr "%s (inválido)"
+
+#. translators: %s: title of menu item in draft status
+#: includes/menu.php:377
+msgid "%s (Pending)"
+msgstr "%s (pendente)"
+
+#: includes/menu.php:395 includes/menu.php:497
+msgid "Mega Menu"
+msgstr "Mega Cardápio"
+
+#: includes/menu.php:399
+msgid "Sub item"
+msgstr "Subitem"
+
+#: includes/menu.php:415
+msgid "Move up"
+msgstr "Subir"
+
+#: includes/menu.php:428
+msgid "Move down"
+msgstr "Mover para baixo"
+
+#: includes/menu.php:430
+msgid "Edit Menu Item"
+msgstr "Editar item de menu"
+
+#: includes/menu.php:441
+msgid "Mega Menu Setting"
+msgstr "Configuração do Mega Menu"
+
+#: includes/menu.php:445
+msgid "Mega Menu Enabled"
+msgstr "Megamenu ativado"
+
+#: includes/menu.php:450
+msgid "Choose MegaMenu"
+msgstr "Escolha MegaMenu"
+
+#: includes/menu.php:464
+msgid "Number columns"
+msgstr "Colunas numéricas"
+
+#: includes/menu.php:466
+msgid "Number columns of submenu(support 1,2,3,4,6 columns)"
+msgstr "Colunas numéricas do submenu (suporta 1,2,3,4,6 colunas)"
+
+#: includes/menu.php:475
+msgid "Mega menu width"
+msgstr "Largura do mega menu"
+
+#: includes/menu.php:486
+msgid "Mega menu Align"
+msgstr "Mega menu Alinhar"
+
+#: includes/menu.php:488 includes/metaboxes.php:30
+msgid "Full Width"
+msgstr "Largura completa"
+
+#: includes/menu.php:489
+msgid "Center"
+msgstr "Centro"
+
+#: includes/menu.php:490
+msgid "Left"
+msgstr "Esquerda"
+
+#: includes/menu.php:491
+msgid "Right"
+msgstr "Certo"
+
+#: includes/menu.php:499
+msgid "The ID of Elementor Template Section"
+msgstr "O ID da seção do modelo Elementor"
+
+#: includes/menu.php:508
+msgid "Icon"
+msgstr "Ícone"
+
+#: includes/menu.php:508
+msgid "(icons in Font Awesome)"
+msgstr "(ícones em Font Awesome)"
+
+#: includes/menu.php:517
+msgid "URL"
+msgstr "URL"
+
+#: includes/menu.php:524
+msgid "Navigation Label"
+msgstr "Etiqueta de navegação"
+
+#: includes/menu.php:530
+msgid "Title Attribute"
+msgstr "Atributo do Título"
+
+#: includes/menu.php:537
+msgid "Open link in a new window/tab"
+msgstr "Abrir link em uma nova janela/guia"
+
+#: includes/menu.php:542
+msgid "CSS Classes (optional)"
+msgstr "Classes CSS (opcional)"
+
+#: includes/menu.php:548
+msgid "Link Relationship (XFN)"
+msgstr "Relacionamento de link (XFN)"
+
+#: includes/menu.php:554
+msgid "Description"
+msgstr "Descrição"
+
+#: includes/menu.php:556
+msgid ""
+"The description will be displayed in the menu if the current theme supports "
+"it."
+msgstr "A descrição será exibida no menu se o tema atual for compatível."
+
+#: includes/menu.php:562
+msgid "Move"
+msgstr "Mover"
+
+#: includes/menu.php:563
+msgid "Up one"
+msgstr "Acima de um"
+
+#: includes/menu.php:564
+msgid "Down one"
+msgstr "Abaixo um"
+
+#: includes/menu.php:567
+msgid "To the top"
+msgstr "Para o topo"
+
+#: includes/menu.php:574
+msgid "Original: %s"
+msgstr "Original: %s"
+
+#: includes/menu.php:587
+msgid "Remove"
+msgstr "Remover"
+
+#: includes/menu.php:588
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: includes/metaboxes.php:10 includes/metaboxes.php:25
+msgid "Page Meta"
+msgstr "Meta da página"
+
+#: includes/metaboxes.php:15
+msgid "Template Type"
+msgstr "Tipo de modelo"
+
+#: includes/metaboxes.php:33
+msgid ""
+"Turn on to have the main area display at 100% width according to the window "
+"size. Turn off to follow site width."
+msgstr ""
+"Ative para que a área principal seja exibida com 100% de largura de acordo "
+"com o tamanho da janela. Desligue para acompanhar a largura do site."
+
+#: includes/metaboxes.php:37
+msgid "Header Layout"
+msgstr "Layout do cabeçalho"
+
+#: includes/metaboxes.php:45
+msgid "Footer Layout"
+msgstr "Layout do rodapé"
+
+#: includes/metaboxes.php:53
+msgid "Extra page class"
+msgstr "Classe de página extra"
+
+#: includes/metaboxes.php:55
+msgid ""
+"If you wish to add extra classes to the body class of the page (for custom "
+"css use), then please add the class(es) here."
+msgstr ""
+"Se você deseja adicionar classes extras à classe corporal da página (para "
+"uso de CSS personalizado), adicione as classes aqui."
+
+#: includes/metaboxes.php:66
+msgid "Page Title & Breadcrumb"
+msgstr "Título da página e localização atual"
+
+#: includes/metaboxes.php:72
+msgid "Remove Title of Page"
+msgstr "Remover título da página"
+
+#: includes/metaboxes.php:78
+msgid "Disable Breadcrumbs"
+msgstr "Desativar localização atual"
+
+#: includes/metaboxes.php:81
+msgid "Disable the breadcrumbs from under the page title on this page."
+msgstr "Desative a localização atual abaixo do título da página nesta página."
+
+#: includes/metaboxes.php:85
+msgid "Breadcrumb Layout"
+msgstr "Layout de localização atual"
+
+#: includes/metaboxes.php:89
+msgid "Default Options in Layout Template"
+msgstr "Opções padrão no modelo de layout"
+
+#: includes/metaboxes.php:90
+msgid "Individuals Options This Page"
+msgstr "Opções individuais nesta página"
+
+#: includes/metaboxes.php:94
+msgid ""
+"You can use breadcrumb settings default in Layout Template or individuals "
+"this page"
+msgstr ""
+"Você pode usar as configurações de localização atual padrão no modelo de "
+"layout ou individualmente nesta página"
+
+#: includes/metaboxes.php:97 includes/options/opts-general.php:59
+#: includes/options/opts-woo.php:156
+msgid "Background Overlay Color"
+msgstr "Cor de sobreposição de fundo"
+
+#: includes/metaboxes.php:99
+msgid "Set an overlay color for hero heading image."
+msgstr "Defina uma cor de sobreposição para a imagem do título do herói."
+
+#: includes/metaboxes.php:105
+msgid "Overlay Opacity"
+msgstr "Opacidade da sobreposição"
+
+#: includes/metaboxes.php:107
+msgid ""
+"Set the opacity level of the overlay. This will lighten or darken the image "
+"depening on the color selected."
+msgstr ""
+"Defina o nível de opacidade da sobreposição. Isto irá clarear ou escurecer a "
+"imagem dependendo da cor selecionada."
+
+#: includes/metaboxes.php:120 includes/options/opts-general.php:76
+#: includes/options/opts-woo.php:183
+msgid "Breadcrumb Background Image"
+msgstr "Imagem de fundo de pão ralado"
+
+#: includes/metaboxes.php:131
+msgid "Give Forms Settings"
+msgstr "Fornecer configurações de formulários"
+
+#: includes/metaboxes.php:136
+msgid "Gallery Images"
+msgstr "Imagens da galeria"
+
+#: includes/metaboxes.php:142
+msgid "Video URL"
+msgstr "URL do vídeo"
+
+#: includes/metaboxes.php:147
+msgid "Featured"
+msgstr "Apresentou"
+
+#: includes/metaboxes.php:153 includes/metaboxes.php:169
+msgid "Layout Page"
+msgstr "Página de layout"
+
+#: includes/metaboxes.php:165
+msgid "Crowdfunding Meta"
+msgstr "Financiamento coletivo"
+
+#: includes/options/init.php:15 includes/options/init.php:16
+msgid "Theme Settings"
+msgstr "Configurações de tema"
+
+#: includes/options/opts-footer.php:3
+msgid "Footer Options"
+msgstr "Opções de rodapé"
+
+#: includes/options/opts-footer.php:9
+msgid "Enable/Disable Copyright Text"
+msgstr "Ativar/desativar texto de direitos autorais"
+
+#: includes/options/opts-footer.php:11 includes/options/opts-general.php:51
+#: includes/options/opts-woo.php:117 includes/options/opts-woo.php:128
+#: includes/options/opts-woo.php:174
+msgid "Enable"
+msgstr "Habilitar"
+
+#: includes/options/opts-footer.php:12 includes/options/opts-general.php:52
+#: includes/options/opts-woo.php:118 includes/options/opts-woo.php:129
+#: includes/options/opts-woo.php:175
+msgid "Disable"
+msgstr "Desativar"
+
+#: includes/options/opts-footer.php:19
+msgid "Footer Copyright Text"
+msgstr "Texto de direitos autorais do rodapé"
+
+#: includes/options/opts-footer.php:20
+msgid "Copyright - 2023 - Company - All rights reserved. Powered by WordPress."
+msgstr ""
+"Copyright - 2023 - Empresa - Todos os direitos reservados. Desenvolvido por "
+"WordPress."
+
+#: includes/options/opts-general.php:3
+msgid "General Options"
+msgstr "Opções gerais"
+
+#: includes/options/opts-general.php:9
+msgid "Page Layout"
+msgstr "Layout da página"
+
+#: includes/options/opts-general.php:10
+msgid "Select the page layout type"
+msgstr "Selecione o tipo de layout de página"
+
+#: includes/options/opts-general.php:12
+msgid "Boxed"
+msgstr "Encaixotado"
+
+#: includes/options/opts-general.php:13
+msgid "Fullwidth"
+msgstr "Largura completa"
+
+#: includes/options/opts-general.php:20
+msgid "Google Map API key"
+msgstr "Chave da API do Google Maps"
+
+#: includes/options/opts-general.php:29
+msgid "Logo Default"
+msgstr "Padrão do logotipo"
+
+#: includes/options/opts-general.php:35
+msgid "Logo in header default"
+msgstr "Logotipo no cabeçalho padrão"
+
+#: includes/options/opts-general.php:44
+msgid "Breadcrumb Settings Without Elementor"
+msgstr "Configurações de localização atual sem Elementor"
+
+#: includes/options/opts-general.php:49 includes/options/opts-woo.php:126
+msgid "Breadcrumb Title"
+msgstr "Título da localização atual"
+
+#: includes/options/opts-general.php:65 includes/options/opts-woo.php:162
+msgid "Breadcrumb Ovelay Color Opacity"
+msgstr "Opacidade da cor Ovelay da farinha de rosca"
+
+#: includes/options/opts-general.php:83 includes/options/opts-woo.php:190
+msgid "Breadcrumb Text Stype"
+msgstr "Tipo de texto de localização atual"
+
+#: includes/options/opts-general.php:86 includes/options/opts-woo.php:193
+msgid "Light"
+msgstr "Luz"
+
+#: includes/options/opts-general.php:87 includes/options/opts-woo.php:194
+msgid "Dark"
+msgstr "Escuro"
+
+#: includes/options/opts-page.php:4
+msgid "Page Options"
+msgstr "Opções de página"
+
+#: includes/options/opts-page.php:10
+msgid "404 Page Settings"
+msgstr "404 Configurações de página"
+
+#: includes/options/opts-page.php:16
+msgid "Image"
+msgstr "Imagem"
+
+#: includes/options/opts-page.php:22
+msgid "Image Width"
+msgstr "Largura da imagem"
+
+#: includes/options/opts-page.php:32
+msgid "Title Text"
+msgstr "Texto do título"
+
+#: includes/options/opts-page.php:38
+msgid "Primary Text"
+msgstr "Texto Primário"
+
+#: includes/options/opts-page.php:44
+msgid "Button Title"
+msgstr "Título do botão"
+
+#: includes/options/opts-page.php:50
+msgid "Button Link"
+msgstr "Botão de link"
+
+#: includes/options/opts-portfolio.php:3
+msgid "Portfolio Options"
+msgstr "Opções de portfólio"
+
+#: includes/options/opts-portfolio.php:9
+msgid "Slug url portfolio post type"
+msgstr "Tipo de postagem do portfólio de URL do Slug"
+
+#: includes/options/opts-portfolio.php:14
+msgid "Slug Portfolio"
+msgstr "Portfólio de lesmas"
+
+#: includes/options/opts-portfolio.php:21
+msgid "Archive/Listing"
+msgstr "Arquivo/Listagem"
+
+#: includes/options/opts-portfolio.php:26 includes/options/opts-woo.php:24
+msgid "Display Columns for Large Screen"
+msgstr "Exibir colunas para tela grande"
+
+#: includes/options/opts-portfolio.php:40 includes/options/opts-woo.php:40
+msgid "Display Columns for Medium Screen"
+msgstr "Exibir colunas para tela média"
+
+#: includes/options/opts-portfolio.php:54 includes/options/opts-woo.php:56
+msgid "Display Columns for Small Screen"
+msgstr "Exibir colunas para tela pequena"
+
+#: includes/options/opts-portfolio.php:68 includes/options/opts-woo.php:72
+msgid "Display Columns for Extra Small Screen"
+msgstr "Exibir colunas para tela extra pequena"
+
+#: includes/options/opts-styling.php:3
+msgid "Typography & Styling"
+msgstr "Tipografia e estilo"
+
+#: includes/options/opts-styling.php:11
+msgid "Main Font"
+msgstr "Fonte principal"
+
+#: includes/options/opts-styling.php:16 includes/options/opts-styling.php:52
+msgid "Font Source"
+msgstr "Fonte da fonte"
+
+#: includes/options/opts-styling.php:18 includes/options/opts-styling.php:54
+msgid "(none)"
+msgstr "(nenhum)"
+
+#: includes/options/opts-styling.php:19 includes/options/opts-styling.php:55
+msgid "Standard + Google Webfonts"
+msgstr "Padrão + Google Webfonts"
+
+#: includes/options/opts-styling.php:28 includes/options/opts-styling.php:63
+msgid "Font Face"
+msgstr "Tipo de letra"
+
+#: includes/options/opts-styling.php:47
+msgid "Secondary Font"
+msgstr "Fonte secundária"
+
+#: includes/options/opts-styling.php:81
+msgid "Body Colors"
+msgstr "Cores do corpo"
+
+#: includes/options/opts-styling.php:86
+msgid "Body Color"
+msgstr "Cor do corpo"
+
+#: includes/options/opts-styling.php:94 includes/options/opts-styling.php:170
+msgid "Link Color"
+msgstr "Cor do link"
+
+#: includes/options/opts-styling.php:102 includes/options/opts-styling.php:177
+msgid "Link Hover Color"
+msgstr "Cor de passagem do link"
+
+#: includes/options/opts-styling.php:110
+msgid "Heading Color"
+msgstr "Cor do título"
+
+#: includes/options/opts-styling.php:118
+msgid "Background"
+msgstr "Fundo"
+
+#: includes/options/opts-styling.php:123 includes/options/opts-styling.php:156
+msgid "Background Color"
+msgstr "Cor de fundo"
+
+#: includes/options/opts-styling.php:124
+msgid "Used for the main site background."
+msgstr "Usado para o plano de fundo principal do site."
+
+#: includes/options/opts-styling.php:133
+msgid "Background Image"
+msgstr "Imagem de fundo"
+
+#: includes/options/opts-styling.php:134
+msgid "Upload a background image or specify a URL (boxed layout)."
+msgstr ""
+"Faça upload de uma imagem de fundo ou especifique um URL (layout em caixa)."
+
+#: includes/options/opts-styling.php:139
+msgid "Background Type"
+msgstr "Tipo de plano de fundo"
+
+#: includes/options/opts-styling.php:140
+msgid ""
+"Select the background-image type (fixed image or repeat pattern/texture)."
+msgstr ""
+"Selecione o tipo de imagem de fundo (imagem fixa ou padrão/textura repetido)."
+
+#: includes/options/opts-styling.php:142
+msgid "Fixed (Full)"
+msgstr "Fixo (completo)"
+
+#: includes/options/opts-styling.php:143
+msgid "Repeat (Pattern)"
+msgstr "Repetir (padrão)"
+
+#: includes/options/opts-styling.php:151
+msgid "Footer Default Styling"
+msgstr "Estilo padrão do rodapé"
+
+#: includes/options/opts-styling.php:163
+msgid "Text Color"
+msgstr "Cor do texto"
+
+#: includes/options/opts-woo.php:4
+msgid "WooCommerce Options"
+msgstr "Opções WooCommerce"
+
+#: includes/options/opts-woo.php:10 includes/options/opts-woo.php:89
+msgid "Shop Page Settings"
+msgstr "Configurações da página da loja"
+
+#: includes/options/opts-woo.php:15
+msgid "Products Per Page"
+msgstr "Produtos por página"
+
+#: includes/options/opts-woo.php:16
+msgid "Number value."
+msgstr "Valor numérico."
+
+#: includes/options/opts-woo.php:17
+msgid ""
+"The amount of products you would like to show per page on shop/category "
+"pages."
+msgstr ""
+"A quantidade de produtos que você gostaria de mostrar por página nas páginas "
+"da loja/categoria."
+
+#: includes/options/opts-woo.php:25 includes/options/opts-woo.php:41
+#: includes/options/opts-woo.php:57 includes/options/opts-woo.php:73
+msgid "Choose the number of columns to display on shop/category pages."
+msgstr ""
+"Escolha o número de colunas a serem exibidas nas páginas da loja/categoria."
+
+#: includes/options/opts-woo.php:95
+msgid "Upsell Heading Text"
+msgstr "Texto do título de upsell"
+
+#: includes/options/opts-woo.php:96
+msgid "Complete the look"
+msgstr "Complete o visual"
+
+#: includes/options/opts-woo.php:101
+msgid "Related Heading Text"
+msgstr "Texto de título relacionado"
+
+#: includes/options/opts-woo.php:102
+msgid "Related Products"
+msgstr "produtos relacionados"
+
+#: includes/options/opts-woo.php:109
+msgid "Breacrumb Settings"
+msgstr "Configurações de Breecrumb"
+
+#: includes/options/opts-woo.php:115
+msgid "Breadcrumb On Product Page"
+msgstr "Breadcrumb na página do produto"
+
+#: includes/options/opts-woo.php:136 includes/options/opts-woo.php:146
+msgid "Breadcrumb Padding Top"
+msgstr "Topo de enchimento de pão ralado"
+
+#: includes/options/opts-woo.php:172
+msgid "Breadcrumb Image"
+msgstr "Imagem de localização atual"
+
+#: includes/template.php:62
+msgid "Main menu"
+msgstr "Menu principal"
+
+#: includes/template.php:70
+msgid "Sticky"
+msgstr "Pegajoso"
+
+#: includes/template.php:76
+msgid "0 Comments"
+msgstr "0 comentários"
+
+#: includes/template.php:76
+msgid "1 Comment"
+msgstr "1 comentário"
+
+#: includes/template.php:76
+msgid "% Comments"
+msgstr "% Comentários"
+
+#: includes/template.php:80
+msgctxt "Used between list items, there is a space after the comma."
+msgid ", "
+msgstr ", "
+
+#: includes/template.php:90
+msgid "by"
+msgstr "por"
+
+#: includes/template.php:93
+msgid "0 comments"
+msgstr "0 comentários"
+
+#: includes/template.php:93
+msgid "1 comment"
+msgstr "1 comentário"
+
+#: includes/template.php:93
+msgid "% comments"
+msgstr "% comentários"
+
+#: includes/template.php:103
+msgid "Prev page"
+msgstr "Página anterior"
+
+#: includes/template.php:104
+msgid "Next page"
+msgstr "Próxima página"
+
+#: includes/template.php:105
+msgid "Load more"
+msgstr "Carregue mais"
+
+#: includes/template.php:154
+msgid "Post navigation"
+msgstr "Pós-navegação"
+
+#: includes/template.php:158
+msgid "Published In"
+msgstr "Publicado em"
+
+#: includes/template.php:160
+msgid "Previous Post"
+msgstr "Postagem anterior"
+
+#: includes/template.php:161
+msgid "Next Post"
+msgstr "Próxima postagem"
+
+#: includes/tgmpa/class-tgm-plugin-activation.php:340
+#: includes/tgmpa/config.php:76
+msgid "Install Required Plugins"
+msgstr "Instale os plug-ins necessários"
+
+#: includes/tgmpa/class-tgm-plugin-activation.php:341
+#: includes/tgmpa/config.php:77
+msgid "Install Plugins"
+msgstr "Instalar plug-ins"
+
+#. translators: %s: plugin name.
+#: includes/tgmpa/class-tgm-plugin-activation.php:343
+#: includes/tgmpa/config.php:78
+msgid "Installing Plugin: %s"
+msgstr "Instalando o plug-in: %s"
+
+#. translators: %s: plugin name.
+#: includes/tgmpa/class-tgm-plugin-activation.php:345
+msgid "Updating Plugin: %s"
+msgstr "Atualizando plug-in: %s"
+
+#: includes/tgmpa/class-tgm-plugin-activation.php:346
+#: includes/tgmpa/config.php:79
+msgid "Something went wrong with the plugin API."
+msgstr "Algo deu errado com a API do plugin."
+
+#. translators: 1: plugin name(s).
+#: includes/tgmpa/class-tgm-plugin-activation.php:348
+#: includes/tgmpa/config.php:80
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Este tema requer o seguinte plugin: %1$s."
+msgstr[1] "Este tema requer os seguintes plugins: %1$s."
+
+#. translators: 1: plugin name(s).
+#: includes/tgmpa/class-tgm-plugin-activation.php:354
+#: includes/tgmpa/config.php:81
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Este tema recomenda o seguinte plugin: %1$s."
+msgstr[1] "Este tema recomenda os seguintes plugins: %1$s."
+
+#. translators: 1: plugin name(s).
+#: includes/tgmpa/class-tgm-plugin-activation.php:360
+#: includes/tgmpa/config.php:86
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+"O seguinte plugin precisa ser atualizado para sua versão mais recente para "
+"garantir compatibilidade máxima com este tema: %1$s."
+msgstr[1] ""
+"Os seguintes plugins precisam ser atualizados para a versão mais recente "
+"para garantir a máxima compatibilidade com este tema: %1$s."
+
+#. translators: 1: plugin name(s).
+#: includes/tgmpa/class-tgm-plugin-activation.php:366
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "Há uma atualização disponível para: %1$s."
+msgstr[1] "Existem atualizações disponíveis para os seguintes plugins: %1$s."
+
+#. translators: 1: plugin name(s).
+#: includes/tgmpa/class-tgm-plugin-activation.php:372
+#: includes/tgmpa/config.php:83
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "O seguinte plugin necessário está atualmente inativo: %1$s."
+msgstr[1] "Os seguintes plugins necessários estão atualmente inativos: %1$s."
+
+#. translators: 1: plugin name(s).
+#: includes/tgmpa/class-tgm-plugin-activation.php:378
+#: includes/tgmpa/config.php:84
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "O seguinte plugin recomendado está atualmente inativo: %1$s."
+msgstr[1] "Os seguintes plugins recomendados estão atualmente inativos: %1$s."
+
+#: includes/tgmpa/class-tgm-plugin-activation.php:383
+#: includes/tgmpa/config.php:88
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Comece a instalar o plugin"
+msgstr[1] "Comece a instalar plug-ins"
+
+#: includes/tgmpa/class-tgm-plugin-activation.php:388
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Comece a atualizar o plugin"
+msgstr[1] "Comece a atualizar plug-ins"
+
+#: includes/tgmpa/class-tgm-plugin-activation.php:393
+#: includes/tgmpa/config.php:89
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Comece a ativar o plugin"
+msgstr[1] "Comece a ativar plug-ins"
+
+#: includes/tgmpa/class-tgm-plugin-activation.php:398
+#: includes/tgmpa/config.php:90
+msgid "Return to Required Plugins Installer"
+msgstr "Voltar para instalador de Plugins necessários"
+
+#: includes/tgmpa/class-tgm-plugin-activation.php:399
+msgid "Return to the Dashboard"
+msgstr "Retorne para o Dashboard"
+
+#: includes/tgmpa/class-tgm-plugin-activation.php:400
+#: includes/tgmpa/class-tgm-plugin-activation.php:3311
+#: includes/tgmpa/config.php:91
+msgid "Plugin activated successfully."
+msgstr "Plugin ativado com sucesso."
+
+#: includes/tgmpa/class-tgm-plugin-activation.php:401
+#: includes/tgmpa/class-tgm-plugin-activation.php:3103
+msgid "The following plugin was activated successfully:"
+msgstr "O seguinte plugin foi ativado com sucesso:"
+
+#. translators: 1: plugin name.
+#: includes/tgmpa/class-tgm-plugin-activation.php:403
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "Nenhuma ação tomada. O plug-in %1$s já estava ativo."
+
+#. translators: 1: plugin name.
+#: includes/tgmpa/class-tgm-plugin-activation.php:405
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+"Plug-in não ativado. Uma versão superior de %s é necessária para este tema. "
+"Atualize o plug-in."
+
+#. translators: 1: dashboard link.
+#: includes/tgmpa/class-tgm-plugin-activation.php:407
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Todos os plugins instalados e ativados com sucesso. %1$s"
+
+#: includes/tgmpa/class-tgm-plugin-activation.php:408
+msgid "Dismiss this notice"
+msgstr "Descartar essa notificação"
+
+#: includes/tgmpa/class-tgm-plugin-activation.php:409
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+"Existem um ou mais plug-ins obrigatórios ou recomendados para instalar, "
+"atualizar ou ativar."
+
+#: includes/tgmpa/class-tgm-plugin-activation.php:410
+msgid "Please contact the administrator of this site for help."
+msgstr "Entre em contato com o administrador deste site para obter ajuda."
+
+#: includes/tgmpa/class-tgm-plugin-activation.php:616
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "Este plugin precisa ser atualizado para ser compatível com o seu tema."
+
+#: includes/tgmpa/class-tgm-plugin-activation.php:617
+msgid "Update Required"
+msgstr "Atualização necessária"
+
+#: includes/tgmpa/class-tgm-plugin-activation.php:735
+msgid "Set the parent_slug config variable instead."
+msgstr "Em vez disso, defina a variável de configuração parent_slug."
+
+#: includes/tgmpa/class-tgm-plugin-activation.php:1042
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+"O pacote do plugin remoto não contém uma pasta com o slug desejado e a "
+"renomeação não funcionou."
+
+#: includes/tgmpa/class-tgm-plugin-activation.php:1042
+#: includes/tgmpa/class-tgm-plugin-activation.php:1052
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+"Entre em contato com o fornecedor do plug-in e peça que ele empacote o plug-"
+"in de acordo com as diretrizes do WordPress."
+
+#: includes/tgmpa/class-tgm-plugin-activation.php:1052
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+"O pacote de plug-in remoto consiste em mais de um arquivo, mas os arquivos "
+"não são empacotados em uma pasta."
+
+#: includes/tgmpa/class-tgm-plugin-activation.php:1243
+#: includes/tgmpa/class-tgm-plugin-activation.php:3099
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "e"
+
+#. translators: %s: version number
+#: includes/tgmpa/class-tgm-plugin-activation.php:2112
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: includes/tgmpa/class-tgm-plugin-activation.php:2421
+msgid "Required"
+msgstr "Obrigatório"
+
+#: includes/tgmpa/class-tgm-plugin-activation.php:2424
+msgid "Recommended"
+msgstr "Recomendado"
+
+#: includes/tgmpa/class-tgm-plugin-activation.php:2440
+msgid "WordPress Repository"
+msgstr "Repositório WordPress"
+
+#: includes/tgmpa/class-tgm-plugin-activation.php:2443
+msgid "External Source"
+msgstr "Fonte externa"
+
+#: includes/tgmpa/class-tgm-plugin-activation.php:2446
+msgid "Pre-Packaged"
+msgstr "Pré-embalado"
+
+#: includes/tgmpa/class-tgm-plugin-activation.php:2463
+msgid "Not Installed"
+msgstr "Não instalado"
+
+#: includes/tgmpa/class-tgm-plugin-activation.php:2467
+msgid "Installed But Not Activated"
+msgstr "Instalado, mas não ativado"
+
+#: includes/tgmpa/class-tgm-plugin-activation.php:2469
+msgid "Active"
+msgstr "Ativo"
+
+#: includes/tgmpa/class-tgm-plugin-activation.php:2475
+msgid "Required Update not Available"
+msgstr "Atualização necessária não disponível"
+
+#: includes/tgmpa/class-tgm-plugin-activation.php:2478
+msgid "Requires Update"
+msgstr "Requer atualização"
+
+#: includes/tgmpa/class-tgm-plugin-activation.php:2481
+msgid "Update recommended"
+msgstr "Atualização recomendada"
+
+#. translators: 1: install status, 2: update status
+#: includes/tgmpa/class-tgm-plugin-activation.php:2490
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#. translators: 1: number of plugins.
+#: includes/tgmpa/class-tgm-plugin-activation.php:2536
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Todos <span class=\"count\">(%s)</span>"
+msgstr[1] "Todos <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: includes/tgmpa/class-tgm-plugin-activation.php:2540
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "Para instalar <span class=\"count\">(%s)</span>"
+msgstr[1] "Para instalar <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: includes/tgmpa/class-tgm-plugin-activation.php:2544
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Atualização disponível <span class=\"count\">(%s)</span>"
+msgstr[1] "Atualização disponível <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: includes/tgmpa/class-tgm-plugin-activation.php:2548
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "Para ativar <span class=\"count\">(%s)</span>"
+msgstr[1] "Para ativar <span class=\"count\">(%s)</span>"
+
+#: includes/tgmpa/class-tgm-plugin-activation.php:2630
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "desconhecido"
+
+#: includes/tgmpa/class-tgm-plugin-activation.php:2638
+msgid "Installed version:"
+msgstr "Versão instalada:"
+
+#: includes/tgmpa/class-tgm-plugin-activation.php:2646
+msgid "Minimum required version:"
+msgstr "Versão mínima necessária:"
+
+#: includes/tgmpa/class-tgm-plugin-activation.php:2658
+msgid "Available version:"
+msgstr "Versão disponível:"
+
+#: includes/tgmpa/class-tgm-plugin-activation.php:2681
+msgid "No plugins to install, update or activate."
+msgstr "Não há plug-ins para instalar, atualizar ou ativar."
+
+#: includes/tgmpa/class-tgm-plugin-activation.php:2695
+msgid "Plugin"
+msgstr "Plugar"
+
+#: includes/tgmpa/class-tgm-plugin-activation.php:2696
+msgid "Source"
+msgstr "Fonte"
+
+#: includes/tgmpa/class-tgm-plugin-activation.php:2697
+msgid "Type"
+msgstr "Tipo"
+
+#: includes/tgmpa/class-tgm-plugin-activation.php:2701
+msgid "Version"
+msgstr "Versão"
+
+#: includes/tgmpa/class-tgm-plugin-activation.php:2702
+msgid "Status"
+msgstr "Status"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: includes/tgmpa/class-tgm-plugin-activation.php:2751
+msgid "Install %2$s"
+msgstr "Instalar %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: includes/tgmpa/class-tgm-plugin-activation.php:2756
+msgid "Update %2$s"
+msgstr "Atualizar %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: includes/tgmpa/class-tgm-plugin-activation.php:2762
+msgid "Activate %2$s"
+msgstr "Ativar %2$s"
+
+#: includes/tgmpa/class-tgm-plugin-activation.php:2834
+msgid "Upgrade message from the plugin author:"
+msgstr "Mensagem de atualização do autor do plugin:"
+
+#: includes/tgmpa/class-tgm-plugin-activation.php:2867
+msgid "Install"
+msgstr "Instalar"
+
+#: includes/tgmpa/class-tgm-plugin-activation.php:2873
+msgid "Update"
+msgstr "Atualizar"
+
+#: includes/tgmpa/class-tgm-plugin-activation.php:2876
+msgid "Activate"
+msgstr "Ativar"
+
+#: includes/tgmpa/class-tgm-plugin-activation.php:2907
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "Nenhum plugin foi selecionado para ser instalado. Nenhuma ação tomada."
+
+#: includes/tgmpa/class-tgm-plugin-activation.php:2909
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+"Nenhum plugin foi selecionado para ser atualizado. Nenhuma ação tomada."
+
+#: includes/tgmpa/class-tgm-plugin-activation.php:2950
+msgid "No plugins are available to be installed at this time."
+msgstr "Nenhum plug-in está disponível para instalação no momento."
+
+#: includes/tgmpa/class-tgm-plugin-activation.php:2952
+msgid "No plugins are available to be updated at this time."
+msgstr "Nenhum plug-in está disponível para atualização no momento."
+
+#: includes/tgmpa/class-tgm-plugin-activation.php:3059
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "Nenhum plugin foi selecionado para ser ativado. Nenhuma ação tomada."
+
+#: includes/tgmpa/class-tgm-plugin-activation.php:3085
+msgid "No plugins are available to be activated at this time."
+msgstr "Nenhum plug-in está disponível para ativação no momento."
+
+#: includes/tgmpa/class-tgm-plugin-activation.php:3310
+msgid "Plugin activation failed."
+msgstr "Falha na ativação do plug-in."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: includes/tgmpa/class-tgm-plugin-activation.php:3655
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Atualizando o plug-in %1$s (%2$d/%3$d)"
+
+#. translators: 1: plugin name, 2: error message.
+#: includes/tgmpa/class-tgm-plugin-activation.php:3658
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Ocorreu um erro ao instalar %1$s: <strong>%2$s</strong>."
+
+#. translators: 1: plugin name.
+#: includes/tgmpa/class-tgm-plugin-activation.php:3660
+msgid "The installation of %1$s failed."
+msgstr "A instalação de %1$s falhou."
+
+#: includes/tgmpa/class-tgm-plugin-activation.php:3664
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"O processo de instalação e ativação está começando. Este processo pode "
+"demorar um pouco em alguns hosts, portanto, seja paciente."
+
+#. translators: 1: plugin name.
+#: includes/tgmpa/class-tgm-plugin-activation.php:3666
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s instalado e ativado com sucesso."
+
+#: includes/tgmpa/class-tgm-plugin-activation.php:3667
+msgid "All installations and activations have been completed."
+msgstr "Todas as instalações e ativações foram concluídas."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: includes/tgmpa/class-tgm-plugin-activation.php:3669
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Instalando e ativando o plug-in %1$s (%2$d/%3$d)"
+
+#: includes/tgmpa/class-tgm-plugin-activation.php:3672
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"O processo de instalação está começando. Este processo pode demorar um pouco "
+"em alguns hosts, portanto, seja paciente."
+
+#. translators: 1: plugin name.
+#: includes/tgmpa/class-tgm-plugin-activation.php:3674
+msgid "%1$s installed successfully."
+msgstr "%1$s instalado com sucesso."
+
+#: includes/tgmpa/class-tgm-plugin-activation.php:3675
+msgid "All installations have been completed."
+msgstr "Todas as instalações foram concluídas."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: includes/tgmpa/class-tgm-plugin-activation.php:3677
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Instalando o plug-in %1$s (%2$d/%3$d)"
+
+#: includes/tgmpa/class-tgm-plugin-activation.php:3682
+msgid "Show Details"
+msgstr "Mostrar detalhes"
+
+#: includes/tgmpa/class-tgm-plugin-activation.php:3682
+msgid "Hide Details"
+msgstr "Detalhes ocultos"
+
+#: includes/tgmpa/config.php:10
+msgid "Qizon Themer"
+msgstr "Tema Qizon"
+
+#: includes/tgmpa/config.php:16
+msgid "Slider Revolution"
+msgstr "Revolução deslizante"
+
+#: includes/tgmpa/config.php:22
+msgid "Elementor Page Builder"
+msgstr "Construtor de páginas Elementor"
+
+#: includes/tgmpa/config.php:27
+msgid "Redux Framework"
+msgstr "Estrutura Redux"
+
+#: includes/tgmpa/config.php:32
+msgid "Woocommerce"
+msgstr "Woocommerce"
+
+#: includes/tgmpa/config.php:37
+msgid "WP Crowdfunding"
+msgstr "Financiamento coletivo WP"
+
+#: includes/tgmpa/config.php:42
+msgid "Give"
+msgstr "Dar"
+
+#: includes/tgmpa/config.php:47
+msgid "Meta Box"
+msgstr "Metacaixa"
+
+#: includes/tgmpa/config.php:52
+msgid "Contact Form 7"
+msgstr "Formulário de contato 7"
+
+#: includes/tgmpa/config.php:57
+msgid "MailChimp"
+msgstr "MailChimp"
+
+#: includes/tgmpa/config.php:62
+msgid "Events Calendar"
+msgstr "Calendário de Eventos"
+
+#: includes/tgmpa/config.php:82
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %s plugins."
+" Contact the administrator of this site for help on getting the plugins "
+"installed."
+msgstr[0] ""
+"Desculpe, mas você não tem as permissões corretas para instalar o plugin %s. "
+"Contate o administrador deste site para obter ajuda sobre como instalar o "
+"plugin."
+msgstr[1] ""
+"Desculpe, mas você não tem as permissões corretas para instalar os plugins "
+"%s. Entre em contato com o administrador deste site para obter ajuda sobre "
+"como instalar os plug-ins."
+
+#: includes/tgmpa/config.php:85
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s plugin."
+" Contact the administrator of this site for help on getting the plugin "
+"activated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins activated."
+msgstr[0] ""
+"Desculpe, mas você não tem as permissões corretas para ativar o plugin %s. "
+"Contate o administrador deste site para obter ajuda sobre como ativar o "
+"plugin."
+msgstr[1] ""
+"Desculpe, mas você não tem as permissões corretas para ativar os plugins %s. "
+"Entre em contato com o administrador deste site para obter ajuda sobre como "
+"ativar os plug-ins."
+
+#: includes/tgmpa/config.php:87
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %s plugins. "
+"Contact the administrator of this site for help on getting the plugins "
+"updated."
+msgstr[0] ""
+"Desculpe, mas você não tem as permissões corretas para atualizar o plugin %s."
+" Contate o administrador deste site para obter ajuda sobre como atualizar o "
+"plugin."
+msgstr[1] ""
+"Desculpe, mas você não tem as permissões corretas para atualizar os plugins "
+"%s. Entre em contato com o administrador deste site para obter ajuda sobre "
+"como atualizar os plug-ins."
+
+#: includes/tgmpa/config.php:92
+msgid "All plugins installed and activated successfully. %s"
+msgstr "Todos os plugins instalados e ativados com sucesso. %s"
+
+#: includes/woocommerce/functions.php:22
+msgid "View your shopping cart"
+msgstr "Visualize seu carrinho de compras"
+
+#: searchform.php:12
+msgid "Search..."
+msgstr "Procurar..."
+
+#: templates/blog/single.php:61
+msgid "Tags:"
+msgstr "Tag:"
+
+#: templates/content/item-portfolio-style-1.php:10
+#: templates/content/item-portfolio-style-2.php:10
+msgid "View all posts in %s"
+msgstr "Ver todas as postagens em %s"
+
+#: templates/content/item-post-style-1.php:51
+msgid "Read More"
+msgstr "consulte Mais informação"
+
+#: tribe/events/v2/list/event.php:95 tribe-events/list/single-event.php:95
+msgid "Join Event"
+msgstr "Participe do Evento"
+
+#: tribe-events/list/nav.php:22
+msgid "%s List Navigation"
+msgstr "%s Navegação na lista"
+
+#: tribe-events/list/nav.php:28
+msgid "Previous %s"
+msgstr "%s anteriores"
+
+#: tribe-events/list/nav.php:36
+msgid "Next %s"
+msgstr "Próximo %s"
+
+#: tribe-events/list/single-featured.php:78
+msgid "Find out more"
+msgstr "Descubra mais"
+
+#: tribe-events/single-event.php:35
+msgctxt "%s Events plural label"
+msgid "All %s"
+msgstr "Todos %s"
+
+#: tribe-events/single-event.php:79
+msgid "%s Navigation"
+msgstr "%s Navegação"
+
+#: woocommerce/cart/mini-cart.php:19
+msgid "Your Cart"
+msgstr "Seu carrinho"
+
+#: woocommerce/cart/mini-cart.php:64
+msgid "Remove this item"
+msgstr "Remover este item"
+
+#: woocommerce/cart/mini-cart.php:80
+msgid "No products in the cart."
+msgstr "Nenhum produto no carrinho."
+
+#: woocommerce/cart/mini-cart.php:88
+msgid "Subtotal"
+msgstr "Subtotal"
+
+#: woocommerce/cart/mini-cart.php:93
+msgid "View Cart"
+msgstr "Ver carrinho"
+
+#: woocommerce/cart/mini-cart.php:94
+msgid "Checkout"
+msgstr "Confira"
+
+#: woocommerce/checkout/form-checkout.php:26
+msgid "You must be logged in to checkout."
+msgstr "Você precisa estar logado para pagar."
+
+#: woocommerce/checkout/form-checkout.php:58
+msgid "Your order"
+msgstr "Seu pedido"
+
+#: woocommerce/global/breadcrumb.php:73
+msgid "Products tagged &ldquo;"
+msgstr "Produtos marcados com “"
+
+#: woocommerce/global/breadcrumb.php:101 woocommerce/global/breadcrumb.php:203
+msgid "Search results for &ldquo;"
+msgstr "Resultados da busca por &quot;"
+
+#: woocommerce/global/breadcrumb.php:207
+msgid "Posts tagged &ldquo;"
+msgstr "Publicações identificadas &quot;"
+
+#: woocommerce/global/breadcrumb.php:212
+msgid "Author:"
+msgstr "Autor:"
+
+#: woocommerce/global/quantity-input.php:18
+msgid "Qty"
+msgstr "Quantidade"
+
+#: woocommerce/loop/sale-flash.php:16
+msgid "Sale!"
+msgstr "Oferta!"
+
+#: woocommerce/myaccount/form-login.php:36
+msgid "Login"
+msgstr "Conecte-se"
+
+#: woocommerce/myaccount/form-login.php:43
+msgid "Username or email address"
+msgstr "Nome de Usuário ou Endereço de Email"
+
+#: woocommerce/myaccount/form-login.php:47
+#: woocommerce/myaccount/form-login.php:104
+msgid "Password"
+msgstr "Senha"
+
+#: woocommerce/myaccount/form-login.php:55
+msgid "Remember me"
+msgstr "Lembre de mim"
+
+#: woocommerce/myaccount/form-login.php:58
+msgid "Log in"
+msgstr "Conecte-se"
+
+#: woocommerce/myaccount/form-login.php:61
+msgid "Lost your password?"
+msgstr "Perdeu sua senha?"
+
+#: woocommerce/myaccount/form-login.php:66
+msgid "Do not have an account?"
+msgstr "Não possui uma conta?"
+
+#: woocommerce/myaccount/form-login.php:68
+#: woocommerce/myaccount/form-login.php:81
+#: woocommerce/myaccount/form-login.php:118
+msgid "Register"
+msgstr "Registro"
+
+#: woocommerce/myaccount/form-login.php:90
+msgid "Username"
+msgstr "Nome de usuário"
+
+#: woocommerce/myaccount/form-login.php:97
+msgid "Email address"
+msgstr "Endereço de email"
+
+#: woocommerce/myaccount/form-login.php:110
+msgid "A link to set a new password will be sent to your email address."
+msgstr ""
+"Um link para definir uma nova senha será enviado para seu endereço de e-mail."
+
+#: woocommerce/myaccount/navigation.php:40
+msgid "Logout"
+msgstr "Sair"
+
+#: woocommerce/single-product/meta.php:14
+msgid "n/a"
+msgstr "n / D"
+
+#: woocommerce/single-product/meta.php:22
+msgid "<span class=\"title\">SKU:</span>"
+msgstr "<span class=\"title\">SKU:</span>"
+
+#: woocommerce/single-product/meta.php:26
+msgid "<span class=\"title\">Category:</span>"
+msgid_plural "<span class=\"title\">Categories:</span>"
+msgstr[0] "<span class=\"title\">Categoria:</span>"
+msgstr[1] "<span class=\"title\">Categorias:</span>"
+
+#: woocommerce/single-product/meta.php:28
+msgid "<span class=\"title\">Tag:</span>"
+msgid_plural "<span class=\"title\">Tags:</span>"
+msgstr[0] "<span class=\"title\">Marcação:</span>"
+msgstr[1] "<span class=\"title\">Tag:</span>"
+
+#: woocommerce/single-product/rating.php:27
+msgid "Rated %s out of 5"
+msgstr "Avaliado em %s de 5"
+
+#: woocommerce/single-product/rating.php:29
+msgid "out of %s5%s"
+msgstr "de %s5%s"
+
+#: woocommerce/single-product/rating.php:30
+msgid "based on %s customer rating"
+msgid_plural "based on %s customer ratings"
+msgstr[0] "com base na avaliação de %s clientes"
+msgstr[1] "com base nas avaliações de %s clientes"
+
+#: woocommerce/single-product/rating.php:33
+msgid "%s customer review"
+msgid_plural "%s customer reviews"
+msgstr[0] "%s avaliação de cliente"
+msgstr[1] "%s avaliações de clientes"
+
+#: woocommerce/single-product/sale-flash.php:16
+msgid "Sale"
+msgstr "Oferta"
+
+#: woocommerce/single-product/tabs/additional-information.php:17
+msgid "Additional Information"
+msgstr "Informações adicionais"
+
+#: woocommerce/single-product/tabs/description.php:14
+msgid "Product Description"
+msgstr "Descrição do produto"
+
+#: wpcftemplate/content-style-3.php:68
+msgid "Explore"
+msgstr "Explorar"
+
+#: wpcftemplate/woocommerce/basic/author-campaigns.php:18
+msgid "Campaigns by Author"
+msgstr "Campanhas por autor"
+
+#: wpcftemplate/woocommerce/basic/include/campaign-tab.php:37
+#: wpcftemplate/woocommerce/basic/include/tabs/story-tab.php:14
+msgid "Story"
+msgstr "História"
+
+#: wpcftemplate/woocommerce/basic/include/creator-info.php:27
+msgid "By"
+msgstr "Por"
+
+#: wpcftemplate/woocommerce/basic/include/creator-info.php:32
+msgid "Campaigns"
+msgstr "Campanhas"
+
+#: wpcftemplate/woocommerce/basic/include/creator-info.php:33
+msgid "Loved campaigns"
+msgstr "Campanhas adoradas"
+
+#: wpcftemplate/woocommerce/basic/include/feature-image.php:68
+msgid "Short Story"
+msgstr "História curta"
+
+#: wpcftemplate/woocommerce/basic/include/fund-campaign-btn.php:27
+msgid "Minimum amount is "
+msgstr "O valor mínimo é "
+
+#: wpcftemplate/woocommerce/basic/include/fund-campaign-btn.php:28
+msgid "Maximum amount is "
+msgstr "O valor máximo é "
+
+#: wpcftemplate/woocommerce/basic/include/fund-campaign-btn.php:55
+#: wpcftemplate/woocommerce/basic/include/fund-campaign-btn.php:59
+msgid "Back Campaign"
+msgstr "Voltar Campanha"
+
+#: wpcftemplate/woocommerce/basic/include/fund-campaign-btn.php:69
+msgid "The campaign is successful."
+msgstr "A campanha é um sucesso."
+
+#: wpcftemplate/woocommerce/basic/include/fund-campaign-btn.php:71
+msgid "This campaign has been invalid or not started yet."
+msgstr "Esta campanha é inválida ou ainda não foi iniciada."
+
+#: wpcftemplate/woocommerce/basic/include/loop/time_remaining.php:3
+#: wpcftemplate/woocommerce/basic/single-content-default.php:23
+#: wpcftemplate/woocommerce/basic/single-crowdfunding-content-only.php:19
+msgid "0"
+msgstr "0"
+
+#: wpcftemplate/woocommerce/basic/include/loop/time_remaining.php:17
+msgid "Day Remaining"
+msgstr "Dia restante"
+
+#: wpcftemplate/woocommerce/basic/include/loop/time_remaining.php:19
+msgid "Days Remaining"
+msgstr "Dias restantes"
+
+#: wpcftemplate/woocommerce/basic/include/loop/time_remaining.php:24
+msgid "Days Until Launch"
+msgstr "Dias até o lançamento"
+
+#: wpcftemplate/woocommerce/basic/include/social-share.php:20
+#: wpcftemplate/woocommerce/basic/include/social-share.php:82
+msgid "Share: "
+msgstr "Compartilhar: "
+
+#: wpcftemplate/woocommerce/basic/include/tabs/baker-list-tab.php:15
+msgid "Name"
+msgstr "Nome"
+
+#: wpcftemplate/woocommerce/basic/include/tabs/baker-list-tab.php:16
+msgid "Donate Amount"
+msgstr "Doar valor"
+
+#: wpcftemplate/woocommerce/basic/include/tabs/baker-list-tab.php:17
+msgid "Date"
+msgstr "Data"
+
+#: wpcftemplate/woocommerce/basic/include/tabs/baker-list-tab.php:38
+#: wpcftemplate/woocommerce/basic/include/tabs/baker-list-tab.php:42
+msgid "Anonymous"
+msgstr "Anônimo"
+
+#: wpcftemplate/woocommerce/basic/include/tabs/rewards-sidebar-form.php:12
+msgid "Rewards"
+msgstr "Recompensas"
+
+#: wpcftemplate/woocommerce/basic/include/tabs/rewards-sidebar-form.php:44
+msgid " or more"
+msgstr " ou mais"
+
+#: wpcftemplate/woocommerce/basic/include/tabs/rewards-sidebar-form.php:64
+msgid "Estimated Delivery"
+msgstr "Entrega estimada"
+
+#: wpcftemplate/woocommerce/basic/include/tabs/rewards-sidebar-form.php:69
+msgid "backers"
+msgstr "apoiadores"
+
+#: wpcftemplate/woocommerce/basic/include/tabs/rewards-sidebar-form.php:74
+msgid " rewards left"
+msgstr " recompensas restantes"
+
+#: wpcftemplate/woocommerce/basic/include/tabs/rewards-sidebar-form.php:86
+#: wpcftemplate/woocommerce/basic/include/tabs/rewards-sidebar-form.php:103
+msgid "Reward no longer available."
+msgstr "A recompensa não está mais disponível."
+
+#: wpcftemplate/woocommerce/basic/include/tabs/rewards-sidebar-form.php:94
+#: wpcftemplate/woocommerce/basic/include/tabs/rewards-sidebar-form.php:111
+msgid "Select Reward"
+msgstr "Selecione recompensa"
+
+#: wpcftemplate/woocommerce/basic/include/tabs/rewards-sidebar-form.php:123
+msgid "Campaign already completed."
+msgstr "Campanha já concluída."
+
+#: wpcftemplate/woocommerce/basic/include/tabs/rewards-sidebar-form.php:126
+msgid "Reward is not valid."
+msgstr "A recompensa não é válida."
+
+#: wpcftemplate/woocommerce/basic/include/tabs/rewards-sidebar-form.php:128
+msgid "Campaign is not started."
+msgstr "A campanha não foi iniciada."
+
+#: wpcftemplate/woocommerce/basic/single-content-default.php:80
+#: wpcftemplate/woocommerce/basic/single-crowdfunding-content-only.php:63
+msgid "Pledged"
+msgstr "Prometido"
+
+#: wpcftemplate/woocommerce/basic/single-content-default.php:84
+#: wpcftemplate/woocommerce/basic/single-crowdfunding-content-only.php:69
+msgid "Backers"
+msgstr "Apoiadores"
+
+#. Theme Name of the plugin/theme
+msgid "Qizon"
+msgstr "Qizon"
+
+#. Theme URI of the plugin/theme
+msgid "https://gaviaspreview.com/wp/qizon/"
+msgstr "https://gaviaspreview.com/wp/qizon/"
+
+#. Description of the plugin/theme
+msgid ""
+"The 2023 theme for WordPress is a fully responsive theme that looks great on "
+"any device."
+msgstr ""
+"O tema 2023 para WordPress é um tema totalmente responsivo que fica bem em "
+"qualquer dispositivo."
+
+#. Author of the plugin/theme
+msgid "Gaviasthemes Team"
+msgstr "Equipe Gaviasthemes"
+
+#. Author URI of the plugin/theme
+msgid "https://themeforest.net/user/gavias"
+msgstr "https://themeforest.net/user/gavias"

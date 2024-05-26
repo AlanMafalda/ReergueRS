@@ -8,7 +8,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"PO-Revision-Date: 2024-05-25 18:05+0000\n"
+"PO-Revision-Date: 2024-05-26 17:40+0000\n"
 "Last-Translator: \n"
 "Language-Team: Português do Brasil\n"
 "Language: pt_BR\n"
@@ -1747,7 +1747,7 @@ msgstr "O valor máximo é "
 #: wpcftemplate/woocommerce/basic/include/fund-campaign-btn.php:55
 #: wpcftemplate/woocommerce/basic/include/fund-campaign-btn.php:59
 msgid "Back Campaign"
-msgstr "Voltar Campanha"
+msgstr "Apoiar com o valor"
 
 #: wpcftemplate/woocommerce/basic/include/fund-campaign-btn.php:69
 msgid "The campaign is successful."

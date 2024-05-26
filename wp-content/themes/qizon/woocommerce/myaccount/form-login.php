@@ -25,7 +25,7 @@ $mode = "login";
 if(isset($_GET['form']) && $_GET['form'] == 'register'){
 	$mode = 'register';
 }
-$register_link = add_query_arg('form', 'register', get_permalink(wc_get_page_id('myaccount')));
+$register_link = "https://reerguers.com.br/cf-user-registration/";
 
 ?>
 
@@ -63,9 +63,9 @@ $register_link = add_query_arg('form', 'register', get_permalink(wc_get_page_id(
 
 				<?php if('yes' === get_option( 'woocommerce_enable_myaccount_registration' )){ ?>
 					<div class="user-registration">
-						<?php echo esc_html__('Do not have an account?', 'qizon'); ?>
+						<?php echo esc_html__('Novo aqui?', 'qizon'); ?>
 						<a class="quick-login-link" href="<?php echo esc_url($register_link); ?>">
-							<?php echo esc_html__( 'Register', 'qizon' ); ?>
+							<?php echo esc_html__( 'Crie a sua conta aqui', 'qizon' ); ?>
 						</a>
 					</div>
 				<?php } ?>

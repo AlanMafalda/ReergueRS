@@ -1,0 +1,1098 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Advanced Woo Search\n"
+"Report-Msgid-Bugs-To: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Poedit-KeywordsList: __;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;"
+"_nx_noop:1,2,3c;esc_attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;\n"
+"Language: pt_BR\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Country: United States\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Textdomain-Support: yes\n"
+"POT-Creation-Date: 2024-05-26 20:21+0000\n"
+"PO-Revision-Date: 2024-05-26 20:22+0000\n"
+"Last-Translator: \n"
+"Language-Team: Português do Brasil\n"
+"X-Loco-Version: 2.6.9; wp-6.5.3"
+
+#: includes/class-aws-admin.php:129
+msgid "Save Changes"
+msgstr "Salvar alterações"
+
+#: includes/class-aws-admin.php:351
+msgid "Reindex table"
+msgstr "Tabela de reindexação"
+
+msgid ""
+"This action only need for %s one time %s - after you activate this plugin. "
+"After this all products changes will be re-indexed automatically."
+msgstr ""
+"Esta ação só é necessária %s uma vez %s - depois de ativar este plugin. "
+"Depois disso, todas as alterações de produtos serão reindexadas "
+"automaticamente."
+
+msgid "Go to Settings Page"
+msgstr "Vá para a página de configurações"
+
+#: includes/class-aws-admin.php:352
+msgid ""
+"Update all data in plugins index table. Index table - table with products "
+"data where plugin is searching all typed terms.<br>Use this button if you "
+"think that plugin not shows last actual data in its search results.<br>"
+"<strong>CAUTION:</strong> this can take large amount of time."
+msgstr ""
+"Atualize todos os dados na tabela de índice de plugins. Tabela de índice - "
+"tabela com dados de produtos onde o plugin está pesquisando todos os termos "
+"digitados.<br>Use este botão se você acha que o plugin não mostra os últimos "
+"dados reais em seus resultados de pesquisa.<br><strong>CUIDADO:</strong> "
+"isso pode levar muito tempo."
+
+msgid "Index table options can be found inside %s section."
+msgstr "As opções da tabela de índice podem ser encontradas na seção %s."
+
+#: includes/class-aws-admin.php:362
+msgid "Clear cache"
+msgstr "Limpar cache"
+
+#: includes/class-aws-admin.php:363
+msgid "Clear cache for all search results."
+msgstr "Limpe o cache de todos os resultados da pesquisa."
+
+#: includes/options.php:111
+msgid "Smart scraping sentences with searching terms from product description."
+msgstr ""
+"Frases de raspagem inteligentes com termos de pesquisa na descrição do "
+"produto."
+
+#: includes/options.php:112
+msgid ""
+"First N words of product description ( number of words that you choose below."
+" )"
+msgstr ""
+"Primeiras N palavras da descrição do produto (número de palavras que você "
+"escolhe abaixo)."
+
+#: advanced-woo-search.php:113
+msgid "Sale!"
+msgstr "Oferta!"
+
+msgid "SKU"
+msgstr "SKU"
+
+msgid "View all results"
+msgstr "Ver todos os resultados"
+
+#: advanced-woo-search.php:127
+msgid "Settings"
+msgstr "Configurações"
+
+#: advanced-woo-search.php:130 includes/class-aws-admin.php:63
+msgid "Get Premium"
+msgstr "Seja Premium"
+
+#: advanced-woo-search.php:166
+msgid ""
+"Advanced Woo Search plugin is enabled but not effective. It requires "
+"WooCommerce in order to work."
+msgstr ""
+"O plugin Advanced Woo Search está habilitado, mas não é eficaz. Requer "
+"WooCommerce para funcionar."
+
+#: includes/widget.php:15
+msgid "Advanced WooCommerce search widget"
+msgstr "Widget de pesquisa avançada do WooCommerce"
+
+#: includes/widget.php:17
+msgid "&raquo; AWS Widget"
+msgstr "»Widget AWS"
+
+#: includes/widget.php:56
+msgid "Search..."
+msgstr "Procurar..."
+
+#: includes/widget.php:62
+msgid "Title:"
+msgstr "Título:"
+
+#: includes/class-aws-admin.php:38 includes/class-aws-admin.php:38
+msgid "Adv. Woo Search"
+msgstr "Av. Uau Pesquisa"
+
+#: includes/class-aws-admin.php:49
+msgid "General"
+msgstr "Em geral"
+
+#: includes/class-aws-admin.php:296
+msgid "Active sources"
+msgstr "Fontes ativas"
+
+#: includes/class-aws-admin.php:297
+msgid "Change order by drag&drop"
+msgstr "Alterar ordem arrastando e soltando"
+
+#: includes/class-aws-admin.php:316
+msgid "Deactivated sources"
+msgstr "Fontes desativadas"
+
+#: includes/class-aws-admin.php:317
+msgid "Excluded from search results"
+msgstr "Excluído dos resultados da pesquisa"
+
+msgid "Cache options"
+msgstr "Opções de cache"
+
+msgid "Cache results"
+msgstr "Resultados em cache"
+
+msgid "Sync index table"
+msgstr "Sincronizar tabela de índice"
+
+msgid ""
+"Automatically update plugin index table when product content was changed. "
+"This means that in search there will be always latest product data."
+msgstr ""
+"Atualize automaticamente a tabela de índice do plugin quando o conteúdo do "
+"produto for alterado. Isso significa que na pesquisa sempre haverá os dados "
+"mais recentes do produto."
+
+msgid "Turn this off if you have any problems with performance."
+msgstr "Desligue isso se tiver algum problema de desempenho."
+
+msgid "Main Settings"
+msgstr "Configurações principais"
+
+msgid "Seamless integration"
+msgstr "Integração perfeita"
+
+msgid ""
+"Replace all the standard search forms on your website ( may not work with "
+"some themes )."
+msgstr ""
+"Substitua todos os formulários de pesquisa padrão do seu site (pode não "
+"funcionar com alguns temas)."
+
+msgid "Activation"
+msgstr "Ativação"
+
+msgid ""
+"In case you need to add plugin search form on your website, you can do it in "
+"several ways:"
+msgstr ""
+"Caso precise adicionar um formulário de busca de plugin em seu site, você "
+"pode fazer isso de várias maneiras:"
+
+msgid "Enable a %s option ( may not work with some themes )"
+msgstr "Habilite uma opção %s (pode não funcionar com alguns temas)"
+
+msgid "Using shortcode %s"
+msgstr "Usando o código de acesso %s"
+
+msgid ""
+"Add search form as a widget. Go to %s and drag&drop 'AWS Widget' to one of "
+"your widget areas"
+msgstr ""
+"Adicione o formulário de pesquisa como um widget. Vá para %se arraste e "
+"solte 'AWS Widget' em uma de suas áreas de widget"
+
+msgid "Widgets Screen"
+msgstr "Tela de widgets"
+
+msgid "Add PHP code to the necessary files of your theme: %s"
+msgstr "Adicione o código PHP aos arquivos necessários do seu tema: %s"
+
+msgid "Cache search results to increase search speed."
+msgstr ""
+"Resultados da pesquisa em cache para aumentar a velocidade da pesquisa."
+
+msgid ""
+"Turn off if you have old data in the search results after the content of "
+"products was changed."
+msgstr ""
+"Desative se você tiver dados antigos nos resultados da pesquisa após a "
+"alteração do conteúdo dos produtos."
+
+#: includes/options.php:15 includes/options.php:43 includes/options.php:55
+#: includes/options.php:67 includes/options.php:99 includes/options.php:123
+#: includes/options.php:135 includes/options.php:147 includes/options.php:159
+msgid "On"
+msgstr "Sobre"
+
+#: includes/options.php:16 includes/options.php:44 includes/options.php:56
+#: includes/options.php:68 includes/options.php:100 includes/options.php:124
+#: includes/options.php:136 includes/options.php:148 includes/options.php:160
+msgid "Off"
+msgstr "Desligado"
+
+#: includes/options.php:21
+msgid "Text for search field"
+msgstr "Texto para campo de pesquisa"
+
+#: includes/options.php:22
+msgid "Text for search field placeholder."
+msgstr "Texto para espaço reservado do campo de pesquisa."
+
+#: includes/options.php:35
+msgid "Search"
+msgstr "Procurar"
+
+msgid "Text for show more button"
+msgstr "Texto para o botão Mostrar mais"
+
+msgid ""
+"Text for link to search results page at the bottom of search results block."
+msgstr ""
+"Texto do link para a página de resultados de pesquisa na parte inferior do "
+"bloco de resultados de pesquisa."
+
+#: includes/options.php:40
+msgid "Nothing found field"
+msgstr "Campo nada encontrado"
+
+#: includes/options.php:41
+msgid "Text when there is no search results."
+msgstr "Texto quando não há resultados de pesquisa."
+
+#: includes/options.php:43
+msgid "Nothing found"
+msgstr "Nada encontrado"
+
+#: includes/options.php:29
+msgid "Minimum number of characters"
+msgstr "Número mínimo de caracteres"
+
+#: includes/options.php:30
+msgid "Minimum number of characters required to run ajax search."
+msgstr "Número mínimo de caracteres necessários para executar a pesquisa ajax."
+
+#: includes/options.php:37
+msgid "Show loader"
+msgstr "Mostrar carregador"
+
+#: includes/options.php:38
+msgid "Show loader animation while searching."
+msgstr "Mostrar animação do carregador durante a pesquisa."
+
+msgid "Show clear button"
+msgstr "Mostrar botão limpar"
+
+msgid ""
+"Show 'Clear search string' button for desktop devices ( for mobile it is "
+"always visible )."
+msgstr ""
+"Mostrar o botão 'Limpar string de pesquisa' para dispositivos desktop (para "
+"dispositivos móveis está sempre visível)."
+
+msgid "Show 'View All Results'"
+msgstr "Mostrar 'Ver todos os resultados'"
+
+msgid "Show link to search results page at the bottom of search results block."
+msgstr ""
+"Mostrar link para a página de resultados de pesquisa na parte inferior do "
+"bloco de resultados de pesquisa."
+
+msgid "Mobile full screen"
+msgstr "Tela cheia do celular"
+
+msgid ""
+"Full screen search on focus. Will not work if the search form is inside the "
+"block with position: fixed."
+msgstr ""
+"Pesquisa em tela cheia em foco. Não funcionará se o formulário de pesquisa "
+"estiver dentro do bloco com posição: fixa."
+
+msgid "Form Styling"
+msgstr "Estilo de formulário"
+
+msgid "Choose search form layout"
+msgstr "Escolha o layout do formulário de pesquisa"
+
+msgid ""
+"Filter button will be visible only if you have more than one active filter "
+"for current search form instance."
+msgstr ""
+"O botão Filtro ficará visível apenas se você tiver mais de um filtro ativo "
+"para a instância atual do formulário de pesquisa."
+
+msgid "Highlight words"
+msgstr "Destacar palavras"
+
+msgid "Highlight search words inside products content."
+msgstr "Destaque as palavras de pesquisa no conteúdo dos produtos."
+
+#: includes/options.php:49
+msgid "Show image"
+msgstr "Mostrar imagem"
+
+#: includes/options.php:50
+msgid "Show product image for each search result."
+msgstr "Mostre a imagem do produto para cada resultado da pesquisa."
+
+#: includes/options.php:61
+msgid "Show description"
+msgstr "Mostre a descrição"
+
+#: includes/options.php:62
+msgid "Show product description for each search result."
+msgstr "Mostre a descrição do produto para cada resultado da pesquisa."
+
+#: includes/options.php:73
+msgid "Description source"
+msgstr "Fonte da descrição"
+
+#: includes/options.php:74
+msgid ""
+"From where to take product description.<br>If first source is empty data "
+"will be taken from other sources."
+msgstr ""
+"De onde obter a descrição do produto.<br>Se a primeira fonte estiver vazia, "
+"os dados serão retirados de outras fontes."
+
+#: includes/options.php:79
+msgid "Content"
+msgstr "Contente"
+
+#: includes/options.php:80
+msgid "Short description"
+msgstr "Pequena descrição"
+
+#: includes/options.php:85
+msgid "Description length"
+msgstr "Comprimento da descrição"
+
+#: includes/options.php:86
+msgid "Maximal allowed number of words for product description."
+msgstr "Número máximo permitido de palavras para a descrição do produto."
+
+#: includes/options.php:93
+msgid "Show price"
+msgstr "Mostrar preço"
+
+#: includes/options.php:94
+msgid "Show product price for each search result."
+msgstr "Mostre o preço do produto para cada resultado da pesquisa."
+
+msgid "Show price for out of stock"
+msgstr "Mostrar preço para fora de estoque"
+
+msgid "Show product price for out of stock products."
+msgstr "Mostre o preço do produto para produtos fora de estoque."
+
+#: includes/options.php:105
+msgid "Description content"
+msgstr "Conteúdo da descrição"
+
+#: includes/options.php:106
+msgid "What to show in product description?"
+msgstr "O que mostrar na descrição do produto?"
+
+#: includes/options.php:141
+msgid "Show sale badge"
+msgstr "Mostrar selo de promoção"
+
+#: includes/options.php:142
+msgid "Show sale badge for products in search results."
+msgstr "Mostre o selo de venda de produtos nos resultados de pesquisa."
+
+#: includes/options.php:153
+msgid "Show product SKU"
+msgstr "Mostrar SKU do produto"
+
+#: includes/options.php:154
+msgid "Show product SKU in search results."
+msgstr "Mostre o SKU do produto nos resultados da pesquisa."
+
+msgid "Show stock status"
+msgstr "Mostrar status do estoque"
+
+msgid "Show stock status for every product in search results."
+msgstr "Mostre o status do estoque de cada produto nos resultados da pesquisa."
+
+msgid "Show featured icon"
+msgstr "Mostrar ícone em destaque"
+
+msgid "Show or not star icon for featured products."
+msgstr "Mostrar ou não ícone de estrela para produtos em destaque."
+
+#: includes/options.php:167
+msgid "Max number of results"
+msgstr "Número máximo de resultados"
+
+#: includes/options.php:168
+msgid "Maximum number of displayed search results."
+msgstr "Número máximo de resultados de pesquisa exibidos."
+
+#: includes/options.php:175
+msgid "Search in"
+msgstr "Procure em"
+
+#: includes/options.php:30
+msgid "Show out-of-stock"
+msgstr "Mostrar esgotado"
+
+#: includes/options.php:31
+msgid "Show out-of-stock products in search"
+msgstr "Mostrar produtos fora de estoque na pesquisa"
+
+msgid "Stop words list"
+msgstr "Lista de palavras de parada"
+
+msgid "Comma separated list of words that will be excluded from search."
+msgstr ""
+"Lista separada por vírgulas de palavras que serão excluídas da pesquisa."
+
+msgid "Re-index required on change."
+msgstr "Reindexação necessária na mudança."
+
+msgid "Synonyms"
+msgstr "Sinônimos"
+
+msgid ""
+"Comma separated list of synonym words. Each group of synonyms must be on "
+"separated text line."
+msgstr ""
+"Lista separada por vírgulas de palavras sinônimas. Cada grupo de sinônimos "
+"deve estar em uma linha de texto separada."
+
+msgid "Misspelling fix"
+msgstr "Correção de erro ortográfico"
+
+msgid "Fix typos inside search words %s."
+msgstr "Corrija erros de digitação nas palavras de pesquisa %s."
+
+#: includes/options.php:42
+msgid "Use Google Analytics"
+msgstr "Utilize o Google Analytics"
+
+#: includes/options.php:42
+msgid ""
+"Use google analytics to track searches. You need google analytics to be "
+"installed on your site."
+msgstr ""
+"Use o Google Analytics para rastrear pesquisas. Você precisa que o Google "
+"Analytics esteja instalado em seu site."
+
+msgid ""
+"Data will be visible inside Google Analytics 'Site Search' report. Need to "
+"activate 'Site Search' feature inside GA. %s"
+msgstr ""
+"Os dados ficarão visíveis no relatório 'Pesquisa no site' do Google "
+"Analytics. É necessário ativar o recurso 'Site Search' dentro do GA. %s"
+
+msgid "More info"
+msgstr "Mais informações"
+
+#: includes/options.php:42
+msgid ""
+"Also will send event with category - 'AWS search', action - 'AWS Search "
+"Term' and label of value of search term."
+msgstr ""
+"Também enviará evento com categoria - 'AWS search', ação - 'AWS Search Term' "
+"e rótulo do valor do termo de pesquisa."
+
+msgid "In stock"
+msgstr "Em estoque"
+
+msgid "Out of stock"
+msgstr "Fora de estoque"
+
+#. Name of the plugin
+msgid "Advanced Woo Search"
+msgstr "Pesquisa avançada Woo"
+
+#. Description of the plugin
+msgid "Advance ajax WooCommerce product search."
+msgstr "Pesquisa avançada de produtos ajax WooCommerce."
+
+#. Author of the plugin
+msgid "ILLID"
+msgstr "ILIDA"
+
+msgid "Placeholder"
+msgstr "Espaço reservado"
+
+msgid "Add placeholder text or leave empty to use default."
+msgstr ""
+"Adicione texto de espaço reservado ou deixe em branco para usar o padrão."
+
+msgid "Disable this source"
+msgstr "Desabilitar esta fonte"
+
+msgid "Enable this source"
+msgstr "Ativar esta fonte"
+
+msgid "Yes"
+msgstr "Sim"
+
+msgid "No"
+msgstr "Não"
+
+msgid "Click on status icon to enable or disable search source."
+msgstr ""
+"Clique no ícone de status para ativar ou desativar a fonte de pesquisa."
+
+msgid "Search Source"
+msgstr "Fonte de pesquisa"
+
+msgid "Category"
+msgstr "Categoria"
+
+msgid "Tag"
+msgstr "Marcação"
+
+msgid "ID"
+msgstr "EU IA"
+
+msgid "Archive pages"
+msgstr "Arquivar páginas"
+
+msgid ""
+"Search for taxonomies and displayed their archive pages in search results."
+msgstr ""
+"Pesquise taxonomias e exiba suas páginas de arquivo nos resultados da "
+"pesquisa."
+
+msgid "Welcome to %s"
+msgstr "Bem-vindo ao %s"
+
+msgid "Powerful search plugin for WooCommerce."
+msgstr "Plugin de pesquisa poderoso para WooCommerce."
+
+msgid "Get Started"
+msgstr "Iniciar"
+
+msgid ""
+"In order to start using the plugin search form you need to take following "
+"steps:"
+msgstr ""
+"Para começar a usar o formulário de pesquisa de plugins, você precisa seguir "
+"os seguintes passos:"
+
+msgid "Index plugin table."
+msgstr "Tabela de plugins de índice."
+
+msgid ""
+"Click on the 'Reindex table' button and wait till the index process is "
+"finished."
+msgstr ""
+"Clique no botão 'Reindexar tabela' e aguarde até que o processo de indexação "
+"seja concluído."
+
+msgid "Set plugin settings."
+msgstr "Defina as configurações do plug-in."
+
+msgid "Leave it to default values or customize some of them."
+msgstr "Deixe os valores padrão ou personalize alguns deles."
+
+msgid "Add search form."
+msgstr "Adicione formulário de pesquisa."
+
+msgid ""
+"There are several ways you can add a search form to your site. Use the "
+"'Seamless integration' option, shortcode, widget or custom php function. "
+"Read more inside %s section or read %s."
+msgstr ""
+"Existem várias maneiras de adicionar um formulário de pesquisa ao seu site. "
+"Use a opção 'Integração perfeita', shortcode, widget ou função php "
+"personalizada. Leia mais na seção %s ou leia %s."
+
+msgid "guide article"
+msgstr "artigo de guia"
+
+msgid "Finish!"
+msgstr "Terminar!"
+
+msgid ""
+"Now all is set and you can check your search form on the pages where you add "
+"it."
+msgstr ""
+"Agora tudo está configurado e você pode verificar seu formulário de pesquisa "
+"nas páginas onde o adicionou."
+
+msgid "Documentation"
+msgstr "Documentação"
+
+msgid "Steps to Get Started"
+msgstr "Passos para começar"
+
+msgid "How to Add Search Form"
+msgstr "Como adicionar formulário de pesquisa"
+
+msgid "Search Sources"
+msgstr "Fontes de pesquisa"
+
+msgid "Terms Pages Search"
+msgstr "Pesquisa de páginas de termos"
+
+msgid "Help"
+msgstr "Ajuda"
+
+msgid "Support Forums"
+msgstr "Fóruns de suporte"
+
+msgid "Contact Form"
+msgstr "Formulário de Contato"
+
+msgid "Premium Version"
+msgstr "Versão Premium"
+
+msgid "Premium"
+msgstr "Prêmio"
+
+msgid "Upgrade to the"
+msgstr "Atualize para o"
+
+msgid "Premium plugin version"
+msgstr "Versão do plug-in premium"
+
+msgid "to have all available features!"
+msgstr "para ter todos os recursos disponíveis!"
+
+msgid "30-day money back guarantee"
+msgstr "Garantia de devolução do dinheiro em 30 dias"
+
+msgid "Priority support"
+msgstr "Suporte prioritário"
+
+msgid "1 year of support and updates"
+msgstr "1 ano de suporte e atualizações"
+
+msgid "Premium Features"
+msgstr "Recursos premium"
+
+msgid "New Search Sources"
+msgstr "Novas fontes de pesquisa"
+
+msgid ""
+"Search additionally inside %sproduct attributes%s, %staxonomies%s and "
+"%scustom fields%s. Inside the plugin settings page it is possible to choose "
+"some specific sources that must be available for search ( for example only "
+"several product attributes ) or just search for all of them."
+msgstr ""
+"Pesquise adicionalmente em %satributos do produto%s, %staxonomias%se "
+"%scampos personalizados%s. Dentro da página de configurações do plugin é "
+"possível escolher algumas fontes específicas que devem estar disponíveis "
+"para busca (por exemplo apenas vários atributos do produto) ou apenas "
+"pesquisar por todas elas."
+
+msgid "Learn more"
+msgstr "Saber mais"
+
+msgid "Product Variations Support"
+msgstr "Suporte a variações de produtos"
+
+msgid ""
+"Search and show inside search results %svariable product%s, %sproduct "
+"variations%s or %sboth%s. With the variable products will be displayed all "
+"attributes that belong to that specific variation."
+msgstr ""
+"Pesquise e mostre nos resultados da pesquisa %sproduto variável%s, "
+"%svariações de produto%s ou %sambos%s. Com a variável produtos serão "
+"exibidos todos os atributos que pertencem a essa variação específica."
+
+msgid "Archive Pages Search"
+msgstr "Pesquisa de páginas de arquivo"
+
+msgid ""
+"Search for WooCommerce product %scustom taxonomies%s and %sattributes "
+"archive pages%s. Display them right inside search results list along with "
+"the product search results."
+msgstr ""
+"Pesquise %staxonomias personalizadas%s do produto WooCommerce e %páginas de "
+"arquivo de atributos%s. Exiba-os diretamente na lista de resultados da "
+"pesquisa junto com os resultados da pesquisa do produto."
+
+msgid "Users Search"
+msgstr "Pesquisa de usuários"
+
+msgid ""
+"Search for website users and display them right inside the search results "
+"box. Choose what role the user must have to be available for search."
+msgstr ""
+"Pesquise usuários do site e exiba-os diretamente na caixa de resultados da "
+"pesquisa. Escolha qual função o usuário deve ter para estar disponível para "
+"pesquisa."
+
+msgid "Search Form Filters"
+msgstr "Filtros de formulário de pesquisa"
+
+msgid ""
+"For each search form you can create a unique set of tabs. These tabs have "
+"their own %sset of settings%s and work as %sfilters%s for your search "
+"results."
+msgstr ""
+"Para cada formulário de pesquisa você pode criar um conjunto exclusivo de "
+"guias. Essas guias têm seu próprio %sset de configurações%se funcionam como "
+"%sfiltros%s para os resultados da sua pesquisa."
+
+msgid "Search Form Instances"
+msgstr "Instâncias de formulário de pesquisa"
+
+msgid ""
+"Unlimited amount of search form instances with totally different settings "
+"and products look. You can create totally different search forms for any of "
+"your needs. Each instance is %sindependent%s and has its own %sset of "
+"settings%s."
+msgstr ""
+"Quantidade ilimitada de instâncias de formulário de pesquisa com "
+"configurações e aparência de produtos totalmente diferentes. Você pode criar "
+"formulários de pesquisa totalmente diferentes para qualquer uma de suas "
+"necessidades. Cada instância é %sindependente%s e possui seu próprio "
+"%conjunto de configurações%s."
+
+msgid "Search Logic Change"
+msgstr "Mudança na lógica de pesquisa"
+
+msgid ""
+"Switch from %sOR%s to %sAND%s search logic. Choose from %spartial%s or "
+"%sexact match%s search."
+msgstr ""
+"Mude da lógica de pesquisa %sOR%s para %sAND%s. Escolha entre a pesquisa "
+"%spartial%s ou %sexact match%s."
+
+msgid "Add to Cart Button"
+msgstr "Botão Adicionar ao carrinho"
+
+msgid ""
+"Display %sAdd to Cart%s button right inside the search results. This makes "
+"it possible to add the product to the cart without visiting the product page."
+" This button works perfect also and with product variations."
+msgstr ""
+"Exiba o botão %sAdicionar ao carrinho%s dentro dos resultados da pesquisa. "
+"Isso possibilita adicionar o produto ao carrinho sem visitar a página do "
+"produto. Este botão funciona perfeitamente também e com variações de "
+"produtos."
+
+msgid "Search Results Layouts"
+msgstr "Layouts de resultados de pesquisa"
+
+msgid ""
+"Choose between several %spredefined search results layouts%s. For example "
+"you can display all products in search results in a grid or in column one by "
+"one."
+msgstr ""
+"Escolha entre vários %slayouts de resultados de pesquisa predefinidos%s. Por "
+"exemplo, você pode exibir todos os produtos nos resultados da pesquisa em "
+"uma grade ou em uma coluna, um por um."
+
+msgid "Exclude/Include Products Filters"
+msgstr "Excluir/incluir filtros de produtos"
+
+msgid ""
+"Option to exclude or include products from search results by %sproduct ids%s,"
+" %staxonomies%s or %sattributes%s. Show only those products that you want. "
+"This option works great with the search form filters."
+msgstr ""
+"Opção para excluir ou incluir produtos dos resultados da pesquisa por "
+"%sproduct ids%s, %staxonomias%s ou %sattributes%s. Mostre apenas os produtos "
+"que você deseja. Esta opção funciona muito bem com os filtros do formulário "
+"de pesquisa."
+
+msgid "ACF Plugin Support"
+msgstr "Suporte ao plug-in ACF"
+
+msgid ""
+"All fields that were created with the help of %sAdvanced Custom Fields%s "
+"plugin are available for search. Also use a special build-in filters to "
+"display any ACF field value right inside the search results list."
+msgstr ""
+"Todos os campos que foram criados com a ajuda do plugin %sAdvanced Custom "
+"Fields%s estão disponíveis para pesquisa. Use também filtros integrados "
+"especiais para exibir qualquer valor de campo ACF diretamente na lista de "
+"resultados da pesquisa."
+
+msgid ""
+"You will benefit from our full support for any issues you have with this "
+"plugin."
+msgstr ""
+"Você se beneficiará de nosso suporte total para qualquer problema que tenha "
+"com este plugin."
+
+msgid "Frequently Asked Questions"
+msgstr "perguntas frequentes"
+
+msgid "Do you offer refunds?"
+msgstr "Vocês oferecem reembolsos?"
+
+msgid ""
+"If you're not completely happy with your purchase and we're unable to "
+"resolve the issue, let us know and we'll refund the full purchase price. "
+"Refunds can be processed within 30 days of the original purchase."
+msgstr ""
+"Se você não estiver totalmente satisfeito com sua compra e não conseguirmos "
+"resolver o problema, informe-nos e reembolsaremos o preço total da compra. "
+"Os reembolsos podem ser processados dentro de 30 dias após a compra original."
+
+msgid "What payment methods do you accept?"
+msgstr "Que tipos de pagamentos você aceita?"
+
+msgid ""
+"Checkout is powered FastSpring company. They supports major credit and debit "
+"cards, PayPal, and a variety of other mainstream payment methods, so there’s "
+"plenty to pick from."
+msgstr ""
+"Checkout é alimentado pela empresa FastSpring. Eles oferecem suporte aos "
+"principais cartões de crédito e débito, PayPal e uma variedade de outros "
+"métodos de pagamento convencionais, portanto, há muito por onde escolher."
+
+msgid "Do you offer support if I need help?"
+msgstr "Vocês oferecem suporte se eu precisar de ajuda?"
+
+msgid ""
+"Yes! You will benefit of our full support for any issues you have with this "
+"plugin."
+msgstr ""
+"Sim! Você se beneficiará de nosso suporte total para qualquer problema que "
+"tenha com este plugin."
+
+msgid "I have other pre-sale questions, can you help?"
+msgstr "Tenho outras dúvidas sobre pré-venda, você pode ajudar?"
+
+msgid "Yes! You can ask us any question through our"
+msgstr "Sim! Você pode nos fazer qualquer pergunta através do nosso"
+
+msgid "contact form."
+msgstr "Formulário de Contato."
+
+msgid "Website Links:"
+msgstr "Links do site:"
+
+msgid "Plugin home page"
+msgstr "Página inicial do plug-in"
+
+msgid "Features"
+msgstr "Características"
+
+msgid "Pricing"
+msgstr "Preços"
+
+msgid "WooCommerce search form"
+msgstr "Formulário de pesquisa WooCommerce"
+
+msgid "To configure your Advanced Woo Search form please visit %s."
+msgstr "Para configurar seu formulário Advanced Woo Search, visite %s."
+
+msgid "plugin settings page"
+msgstr "página de configurações do plugin"
+
+msgid "Please do not close the page."
+msgstr "Por favor, não feche a página."
+
+msgid "Performance"
+msgstr "Desempenho"
+
+msgid "(index disabled)"
+msgstr "(índice desativado)"
+
+msgid "(enable)"
+msgstr "(habilitar)"
+
+msgid "Source index disabled"
+msgstr "Índice de origem desativado"
+
+msgid ""
+"Advanced Woo Search: In order to apply the changes in the index table you "
+"need to reindex. %s"
+msgstr ""
+"Pesquisa avançada Woo: Para aplicar as alterações na tabela de índice, você "
+"precisa reindexar. %s"
+
+msgid "Search options"
+msgstr "Opções de busca"
+
+msgid "Search rule"
+msgstr "Regra de pesquisa"
+
+msgid "Search rule that will be used for terms search."
+msgstr "Regra de pesquisa que será usada para pesquisa de termos."
+
+msgid ""
+"( contains ). Search query can be inside any part of the product words ( "
+"beginning, end, middle ). Slow."
+msgstr ""
+"(contém). A consulta de pesquisa pode estar dentro de qualquer parte das "
+"palavras do produto (início, fim, meio). Lento."
+
+msgid ""
+"( begins ). Search query can be only at the beginning of the product words. "
+"Fast."
+msgstr ""
+"(começa). A consulta de pesquisa pode estar apenas no início das palavras do "
+"produto. Rápido."
+
+msgid "AJAX timeout"
+msgstr "Tempo limite do AJAX"
+
+msgid ""
+"Time after user input that script is waiting before sending a search event "
+"to the server, ms."
+msgstr ""
+"Tempo após a entrada do usuário em que o script aguarda antes de enviar um "
+"evento de pesquisa ao servidor, ms."
+
+msgid "Search words number"
+msgstr "Número de palavras de pesquisa"
+
+msgid ""
+"The maximum number of words allowed for the search. All extra words will be "
+"removed from the search query."
+msgstr ""
+"O número máximo de palavras permitidas para a pesquisa. Todas as palavras "
+"extras serão removidas da consulta de pesquisa."
+
+msgid "Index table options"
+msgstr "Opções de tabela de índice"
+
+msgid "Overview"
+msgstr "Visão geral"
+
+msgid ""
+"To perform the search plugin use a special index table. This table contains "
+"normalized words of all your products from all available sources."
+msgstr ""
+"Para realizar o plugin de pesquisa, use uma tabela de índice especial. Esta "
+"tabela contém palavras normalizadas de todos os seus produtos de todas as "
+"fontes disponíveis."
+
+msgid ""
+"Sometimes when there are too many products in your store index table can be "
+"very large and that can reflect on search speed."
+msgstr ""
+"Às vezes, quando há muitos produtos na tabela de índice da sua loja, ela "
+"pode ser muito grande e isso pode refletir na velocidade de pesquisa."
+
+msgid ""
+"In this section you can use several options to change the table size by "
+"disabling some unused product data."
+msgstr ""
+"Nesta seção você pode usar várias opções para alterar o tamanho da tabela "
+"desativando alguns dados de produtos não utilizados."
+
+msgid "Note:"
+msgstr "Observação:"
+
+msgid "Reindex is required after options changes."
+msgstr "A reindexação é necessária após alterações nas opções."
+
+msgid "Data to index"
+msgstr "Dados para indexar"
+
+msgid "Choose what products data to add inside the plugin index table."
+msgstr ""
+"Escolha quais dados de produtos serão adicionados à tabela de índice do "
+"plugin."
+
+msgid "What to index"
+msgstr "O que indexar"
+
+msgid "Index variations"
+msgstr "Variações do índice"
+
+msgid "Index or not content of product variations."
+msgstr "Indexar ou não conteúdo das variações do produto."
+
+msgid "Run shortcodes"
+msgstr "Execute códigos de acesso"
+
+msgid "Execute or not any shortcodes inside product content."
+msgstr "Execute ou não códigos de acesso dentro do conteúdo do produto."
+
+msgid "Search results page"
+msgstr "Página de resultados de pesquisa"
+
+msgid "Enable results page"
+msgstr "Ativar página de resultados"
+
+msgid ""
+"Show plugin search results on a separated search results page. Will use your "
+"current theme products search results page template."
+msgstr ""
+"Mostre os resultados da pesquisa do plug-in em uma página de resultados de "
+"pesquisa separada. Usará seu modelo de página de resultados de pesquisa de "
+"produtos temáticos atual."
+
+msgid ""
+"Maximal total number of search results. Larger values can lead to slower "
+"search speed."
+msgstr ""
+"Número total máximo de resultados de pesquisa. Valores maiores podem levar a "
+"uma velocidade de pesquisa mais lenta."
+
+msgid "Results per page"
+msgstr "Resultados por página"
+
+msgid ""
+"Number of search results per page. Empty or 0 - use theme default value."
+msgstr ""
+"Número de resultados de pesquisa por página. Vazio ou 0 - use o valor padrão "
+"do tema."
+
+msgid "Change query hook"
+msgstr "Alterar gancho de consulta"
+
+msgid ""
+"If you have any problems with correct products results on the search results "
+"page - try to change this option."
+msgstr ""
+"Se você tiver algum problema com os resultados corretos dos produtos na "
+"página de resultados da pesquisa, tente alterar esta opção."
+
+msgid "Default"
+msgstr "Padrão"
+
+msgid "AJAX search"
+msgstr "Pesquisa AJAX"
+
+msgid "Use or not live search feature."
+msgstr "Use ou não o recurso de pesquisa ao vivo."
+
+msgid ""
+"Hi! Looks like you are using some plugins that have the advanced integration "
+"with %s. Please find more details below."
+msgstr ""
+"Oi! Parece que você está usando alguns plug-ins que possuem integração "
+"avançada com %s. Encontre mais detalhes abaixo."
+
+msgid "WCFM Multivendor Marketplace plugin."
+msgstr "Plug-in WCFM Multivendor Marketplace."
+
+msgid "Advanced Custom Fields ( ACF ) plugin."
+msgstr "Plug-in de campos personalizados avançados (ACF)."
+
+msgid "Integrations for your plugins"
+msgstr "Integrações para seus plugins"
+
+msgid "All PRO Features"
+msgstr "Todos os recursos PRO"
+
+msgid "View Pricing"
+msgstr "Ver preços"
+
+msgid "Dismiss"
+msgstr "Liberar"
+
+msgid "Products number"
+msgstr "Número dos produtos"
+
+msgid "Maximum number of displayed products search results."
+msgstr "Número máximo de resultados de pesquisa de produtos exibidos."
+
+msgid "Archive pages number"
+msgstr "Número de páginas de arquivo"
+
+msgid "Maximum number of displayed archive pages search results."
+msgstr ""
+"Número máximo de resultados de pesquisa de páginas de arquivo exibidos."
+
+msgid "logo"
+msgstr "logotipo"
+
+msgid "Support"
+msgstr "Apoiar"
